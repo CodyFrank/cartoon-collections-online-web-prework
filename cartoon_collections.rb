@@ -9,7 +9,7 @@ def summon_captain_planet(array)
     word.capitalize!
     word = word + "!"
   end
-  puts new_array
+  return new_array
 end
 
 def long_planeteer_calls# code an argument here
